@@ -1,0 +1,11 @@
+Server: openresty
+Date: Mon, 29 Apr 2019 01:53:54 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+Expires: Mon, 29 Apr 2019 01:55:54 GMT
+Cache-Control: max-age=120
+News: 210_209
+Content-Encoding: gzip
+X-Cache: MISS from bs56.10jqka.com.cn
+X-Cache: MISS from cachehw208
+Via: 1.1 bs56.10jqka.com.cn (squid/3.5.20), 1.1 cachehw208 (squid/3.5.20)

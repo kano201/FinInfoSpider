@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Sitemap:http://basic.10jqka.com.cn/sitemap.txt
+Sitemap:http://basic.10jqka.com.cn/sitemap.xml
